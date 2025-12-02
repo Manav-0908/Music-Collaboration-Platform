@@ -1,4 +1,4 @@
-// src/DashboardServlet.java
+
 import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
@@ -10,3 +10,4 @@ public class DashboardServlet extends HttpServlet {
         req.getRequestDispatcher("dashboard.jsp").forward(req, res);
     }
 }
+
