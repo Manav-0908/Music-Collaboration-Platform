@@ -1,4 +1,4 @@
-// src/UserDAO.java
+
 import java.sql.*;
 public class UserDAO {
     public static User validate(String email, String password) {
@@ -13,3 +13,4 @@ public class UserDAO {
         return null;
     }
 }
+
