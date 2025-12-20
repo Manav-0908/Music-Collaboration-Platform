@@ -18,89 +18,89 @@ Focused on collaboration, music creation, portfolio management, and community in
 ✨ Core Features
 🎧 Music Collaboration
 
-Upload and share music files with collaborators
+-Upload and share music files with collaborators
 
-Download permissions controlled by file owner
+-Download permissions controlled by file owner
 
-Send and receive collaboration requests
+-Send and receive collaboration requests
 
-Automatic request filtering based on:
+-Automatic request filtering based on:
 
-Sender’s account age
+-Sender’s account age
 
-Rating / popularity score
+-Rating / popularity score
 
-Real-time messaging for project coordination
+-Real-time messaging for project coordination
 
 📊 Artist Profiles & Analytics
 
-Personalized dashboard for each musician
+-Personalized dashboard for each musician
 
-Profile analytics based on:
+-Profile analytics based on:
 
-Likes
+-Likes
 
-Followers
+-Followers
 
-Shares
+-Shares
 
-Dynamic rating score calculated using engagement and popularity metrics
+-Dynamic rating score calculated using engagement and popularity metrics
 
-Portfolio showcase (songs, albums, collaborations)
+-Portfolio showcase (songs, albums, collaborations)
 
 🌐 Feeds & Content Discovery
 🎥 Music Scroll Feed
 
-Short-form music videos (similar to Reels/TikTok, music-only)
+-Short-form music videos (similar to Reels/TikTok, music-only)
 
-Advanced filters:
+-Advanced filters:
 
-Vocals / Instruments (Guitar, Drums, Piano, Violin, Percussion, etc.)
+-Vocals / Instruments (Guitar, Drums, Piano, Violin, Percussion, etc.)
 
-Genre-based filters
+-Genre-based filters
 
-Skill-level filters
+-Skill-level filters
 
 “People listening right now” activity indicator
 
-Like, comment, share, follow interactions
+-Like, comment, share, follow interactions
 
 📰 Music Industry Feed
 
-News, updates, and announcements from the music industry
+-News, updates, and announcements from the music industry
 
 💬 Messaging System
 
-Private one-to-one chat between artists
+-Private one-to-one chat between artists
 
 Used for:
 
-Collaboration discussions
+-Collaboration discussions
 
-Idea sharing
+-Idea sharing
 
-File-related communication
+-File-related communication
 
 👍 Social Engagement
 
-Likes, comments, and shares
+-Likes, comments, and shares
 
-Followers & following system
+-Followers & following system
 
-Engagement-based content discovery
+-Engagement-based content discovery
 
-Portfolio visibility driven by interaction quality
+-Portfolio visibility driven by interaction quality
 
 🔒 Admin Functionalities
 👤 User Management
 
-Input: User details (name, email, role)
-Output: Confirmation of creation, update, or deletion
-Functionality:
+-Input: User details (name, email, role)
+-Output: Confirmation of creation, update, or deletion
+-Functionality:
 
-Create, update, or remove user accounts
+-Create, update, or remove user accounts
 
-Assign and manage user roles
+-Assign and manage user roles
 
 🛡 Content Moderation
 
@@ -108,9 +108,9 @@ Input: Content details (music files, videos, comments)
 Output: Approval or rejection status
 Functionality:
 
-Review user-generated content
+-Review user-generated content
 
-Maintain community standards
+-Maintain community standards
 
 ⚙ System Settings
 
@@ -118,59 +118,59 @@ Input: Platform configuration settings
 Output: Confirmation of successful update
 Functionality:
 
-Manage system preferences
+-Manage system preferences
 
-Control access and platform behavior
+-Control access and platform behavior
 
 📊 Dashboards
 🖥 Admin Dashboard
 
-User management table
+-User management table
 
-Content moderation panel
+-Content moderation panel
 
-System configuration controls
+-System configuration controls
 
-Real-time activity and performance monitoring
+-Real-time activity and performance monitoring
 
 🎼 Musician Dashboard
 
-Active collaboration projects & status
+-Active collaboration projects & status
 
-Music file upload, sharing, and editing tools
+-Music file upload, sharing, and editing tools
 
-Personal portfolio management
+-Personal portfolio management
 
-Notification center for:
+-Notification center for:
 
-Collaboration updates
+-Collaboration updates
 
-Feedback
+-Feedback
 
-File changes
+-File changes
 
 🚀 How It Works (High-Level Flow)
 
-Users sign up as Musicians or Listeners
+-Users sign up as Musicians or Listeners
 
-Musicians upload music files and short-form videos
+-Musicians upload music files and short-form videos
 
-Collaboration requests are sent, filtered, and accepted
+-Collaboration requests are sent, filtered, and accepted
 
-Personalized feeds show content based on interests and engagement
+-Personalized feeds show content based on interests and engagement
 
-Dashboards display analytics, ratings, and growth insights
+-Dashboards display analytics, ratings, and growth insights
 
-Admins monitor activity, moderate content, and manage the system
+-Admins monitor activity, moderate content, and manage the system
 
 📈 Future Enhancements
 
-AI-based music recommendation engine
+-AI-based music recommendation engine
 
-Browser-based audio editing tools
+-Browser-based audio editing tools
 
-Team-based collaboration projects
+-Team-based collaboration projects
 
-Live jamming sessions
+-Live jamming sessions
 
 Creator monetization features
